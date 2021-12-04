@@ -1,3 +1,5 @@
+.DEFAULT_GOAL := generate
+
 say_hello:
 	@echo "Hello, World!"
 
